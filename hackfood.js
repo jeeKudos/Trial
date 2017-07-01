@@ -79,6 +79,10 @@ app.get('/blogSubmit',function(req,res){
  })
 })
 
+app.get('/blogView',function(req,res){
+	res.render('blogView');
+})
+
 app.get('/ranking',function (req,res) {
 res.render('ranking');
 })
