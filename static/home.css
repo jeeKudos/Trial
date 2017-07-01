@@ -1,0 +1,15 @@
+ body{
+ 	background-image: url("http://i.imgur.com/21mhY.jpg");
+ 	background-size: cover;
+
+ 	
+ 	background-position: center;
+ }
+ #bla{
+ 	background-color: rgba(255,255,255,0.5);
+ 	margin-left: 100px;
+ 	margin-right: 100px;
+ 	padding-left: 30px;
+ 	padding-right: 30px;
+ 	color:black;
+ }
